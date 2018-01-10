@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Demo_BlinkingLabel/Classes/**/*'
+  s.source_files = '*.{h,m,swift}'
   
   # s.resource_bundles = {
   #   'Demo_BlinkingLabel' => ['Demo_BlinkingLabel/Assets/*.png']
