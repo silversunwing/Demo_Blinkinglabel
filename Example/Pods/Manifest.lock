@@ -1,5 +1,5 @@
 PODS:
-  - Demo_BlinkingLabel (0.1.0)
+  - Demo_BlinkingLabel (0.1.1)
 
 DEPENDENCIES:
   - Demo_BlinkingLabel (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Demo_BlinkingLabel: 384d982a27a1fa524b283ea5a3cd9cf189f12cee
+  Demo_BlinkingLabel: bde17fc51c4da3c8da00541e2502528cf4938f67
 
 PODFILE CHECKSUM: 8aa5e992c0e66c58f038cdef48894ecdaafcadcc
 

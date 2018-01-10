@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Demo_BlinkingLabel'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'A Subclass on UILabel that provides a blink.'
   s.description      = 'This CocoaPod provides the ability to use a UILabel with an ability to start & stop blinking.'
 
   s.homepage         = 'https://github.com/silversunwing/Demo_BlinkingLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'silversunwing' => 'silversunwing@gmail.com' }
+  s.author           = { 'Suman Maharjan' => 'silversunwing@gmail.com' }
   s.source           = { :git => 'https://github.com/silversunwing/Demo_BlinkingLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
