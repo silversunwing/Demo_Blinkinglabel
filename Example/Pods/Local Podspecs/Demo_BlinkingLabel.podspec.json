@@ -1,8 +1,8 @@
 {
   "name": "Demo_BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of Demo_BlinkingLabel.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "A Subclass on UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel with an ability to start & stop blinking.",
   "homepage": "https://github.com/silversunwing/Demo_BlinkingLabel",
   "license": {
     "type": "MIT",

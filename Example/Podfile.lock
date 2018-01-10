@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Demo_BlinkingLabel: 8637cd8bdce6defa23a4990b1717fba91f4c40b8
+  Demo_BlinkingLabel: 384d982a27a1fa524b283ea5a3cd9cf189f12cee
 
 PODFILE CHECKSUM: 8aa5e992c0e66c58f038cdef48894ecdaafcadcc
 
